@@ -1,0 +1,7 @@
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\obj\Debug\Squaring-NumEnd5.csprojResolveAssemblyReference.cache
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\obj\Debug\Squaring-NumEnd5.csproj.CoreCompileInputs.cache
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\bin\Debug\CommandLine.exe.config
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\bin\Debug\CommandLine.exe
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\bin\Debug\CommandLine.pdb
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\obj\Debug\CommandLine.exe
+D:\Исходники\Программы\Squaring-NumEnd5\Squaring-NumEnd5\obj\Debug\CommandLine.pdb
